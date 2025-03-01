@@ -1,0 +1,7 @@
+/build/
+/bin/
+/CMakeCache.txt
+/CMakeFiles/
+Makefile
+cmake_install.cmake
+*.ppm
